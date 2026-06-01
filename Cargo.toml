@@ -1,6 +1,6 @@
 [package]
 name = "cargo-screeps"
-version = "0.5.2-fork-1"
+version = "0.5.2-fork-2"
 edition = "2021"
 authors = ["David Ross <daboross@daboross.net>"]
 documentation = "https://github.com/rustyscreeps/cargo-screeps/"
